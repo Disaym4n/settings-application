@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="settings">Settings</string>
+    <string name="my_cell_phone">My Cell Phone</string>
+    <string name="todo">TODO</string>
+    <string name="sim_card_and_mobile_network">SIM Card And Mobile Network</string>
+    <string name="hotspot_and_teethering">Hotspot and Teethering</string>
+    <string name="connected_devices">Connected devices</string>
+    <string name="sound_and_vibration">Sound and Vibration</string>
+    <string name="Todo">TODO</string>
+    <string name="system">System</string>
+    <string name="google">Google</string>
+    <string name="accounts">Accounts</string>
+    <string name="special_features">Special features</string>
+    <string name="digital_wellbeing_and_parental_controls">Digital Wellbeing and Parental Controls</string>
+    <string name="battery">Battery</string>
+    <string name="display_and_brightness">Display and brightness</string>
+    <string name="theme_and_lockscreen">Theme and lockscreen</string>
+    <string name="notifications">Notifications</string>
+    <string name="apps">Apps</string>
+    <string name="location">Location</string>
+    <string name="security">Security</string>
+    <string name="privacy">Privacy</string>
+    <string name="toodoo">TODO</string>
+    <string name="TODO">TODO</string>
+    <string name="ToDo">TODO</string>
+    <string name="toDo">TODO</string>
+    <string name="storage">Storage</string>
+    <string name="TOdo">TODO</string>
+    <string name="toDO">TODO</string>
+    <string name="TODOO">TODO</string>
+    <string name="TOOdo">TODO</string>
+    <string name="toDOo">TODO</string>
+    <string name="tooo">TODO</string>
+    <string name="toodo">TODO</string>
+    <string name="todoo">TODO</string>
+    <string name="to">TODO</string>
+    <string name="TO">TODO</string>
+    <string name="To">TODO</string>
+    <string name="tO">TODO</string>
+    <string name="TodO">TODO</string>
+</resources>
