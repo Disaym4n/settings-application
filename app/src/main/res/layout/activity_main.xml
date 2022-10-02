@@ -5,7 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="match_parent"
@@ -78,7 +77,6 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="5sp"
             android:text="@string/sun_oct02" />
-
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
